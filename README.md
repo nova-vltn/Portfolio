@@ -6,4 +6,4 @@ In this portfolio, you will find:
 - **SQL Projects:** Examples of database design, management, and complex queries utilizing Oracle SQL Developer.
 - **Computer Proficiency:** A showcase of my skills in using advanced technology and software tools.
 
-I am excited to contribute to the Data Team and apply my expertise in creating efficient, scalable data solutions.
+I am excited to contribute to the Data Team and apply my expertise in creating efficient, scalable data solutions!
